@@ -1,3 +1,6 @@
 [submodule "Components/BioRocketProtocol/BioRocketProto/EmbeddedProto"]
 	path = Components/BioRocketProtocol/BioRocketProto/EmbeddedProto
 	url = https://github.com/Embedded-AMS/EmbeddedProto.git
+[submodule "EmbeddedProto"]
+	path = EmbeddedProto
+	url = https://github.com/Embedded-AMS/EmbeddedProto.git
