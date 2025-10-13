@@ -16,10 +16,9 @@ enum Node {
     
     NODE_UNKNOWN = 1;   // This can happen if the node is not yet known at this stage, eg. COBS decode failed
     NODE_ANY = 2;
-    NODE_RCU = 3;
-    NODE_DMB = 4;
-    NODE_PBB = 5;
-    NODE_SOB = 6;
+    NODE_DMB = 3;
+    NODE_LPBB = 4;
+    NODE_UPBB = 5;
 }
 
 enum MessageID {
